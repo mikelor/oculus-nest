@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3508863536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 209e2162cd3ceb25fc3e6628f04aac24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/AudioClips/sfx_belt_in.wav
+Dependencies: []

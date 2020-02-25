@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1821325324
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a41baa6e0854c95a90eb34b0562165a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f19fbf085e00d23fbc8d6cf7b345590b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Textures/GearVrController/GearVrController_color_128.tif
+- Assets/Oculus/VR/Textures/GearVrController/GearVrController_ao_128.tif
+- Assets/Oculus/VR/Textures/GearVrController/GearVrController_normal_128.tif
+Dependencies: []
